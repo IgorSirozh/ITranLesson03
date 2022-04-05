@@ -1,0 +1,16 @@
+D:\Devs\ITran\Task0203\RPSGame\bin\Debug\net5.0\RPSGame.exe
+D:\Devs\ITran\Task0203\RPSGame\bin\Debug\net5.0\RPSGame.deps.json
+D:\Devs\ITran\Task0203\RPSGame\bin\Debug\net5.0\RPSGame.runtimeconfig.json
+D:\Devs\ITran\Task0203\RPSGame\bin\Debug\net5.0\RPSGame.runtimeconfig.dev.json
+D:\Devs\ITran\Task0203\RPSGame\bin\Debug\net5.0\RPSGame.dll
+D:\Devs\ITran\Task0203\RPSGame\bin\Debug\net5.0\ref\RPSGame.dll
+D:\Devs\ITran\Task0203\RPSGame\bin\Debug\net5.0\RPSGame.pdb
+D:\Devs\ITran\Task0203\RPSGame\obj\Debug\net5.0\RPSGame.csproj.AssemblyReference.cache
+D:\Devs\ITran\Task0203\RPSGame\obj\Debug\net5.0\RPSGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Devs\ITran\Task0203\RPSGame\obj\Debug\net5.0\RPSGame.AssemblyInfoInputs.cache
+D:\Devs\ITran\Task0203\RPSGame\obj\Debug\net5.0\RPSGame.AssemblyInfo.cs
+D:\Devs\ITran\Task0203\RPSGame\obj\Debug\net5.0\RPSGame.csproj.CoreCompileInputs.cache
+D:\Devs\ITran\Task0203\RPSGame\obj\Debug\net5.0\RPSGame.dll
+D:\Devs\ITran\Task0203\RPSGame\obj\Debug\net5.0\ref\RPSGame.dll
+D:\Devs\ITran\Task0203\RPSGame\obj\Debug\net5.0\RPSGame.pdb
+D:\Devs\ITran\Task0203\RPSGame\obj\Debug\net5.0\RPSGame.genruntimeconfig.cache
